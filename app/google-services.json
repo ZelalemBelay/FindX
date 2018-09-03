@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860360182436",
+    "firebase_url": "https://findx-fc6df.firebaseio.com",
+    "project_id": "findx-fc6df",
+    "storage_bucket": "findx-fc6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860360182436:android:ff1dc1e73b4476a9",
+        "android_client_info": {
+          "package_name": "com.findx.zeelo.findx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860360182436-ru8lu25aljd61detcp24g433lfqfonbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findx.zeelo.findx",
+            "certificate_hash": "c85aa29d0d86b872ba5eac070a4ceefa124c7cb9"
+          }
+        },
+        {
+          "client_id": "860360182436-lde3gv6m51hlrobqqbhrfsr65b2jds2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDyCfZ1iiCUjnZmunpNpq_go4oMnz3sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860360182436-lde3gv6m51hlrobqqbhrfsr65b2jds2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
