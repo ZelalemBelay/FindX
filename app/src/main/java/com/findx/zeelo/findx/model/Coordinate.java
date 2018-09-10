@@ -1,4 +1,4 @@
-package com.findx.zeelo.findx;
+package com.findx.zeelo.findx.model;
 
 public class Coordinate {
 
